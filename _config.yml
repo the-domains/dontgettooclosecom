@@ -1,14 +1,14 @@
-layout_spectrum: 0.5715538384392858
-typography_spectrum: 0.14325451361946762
+layout_spectrum: 0.3227508154232055
+typography_spectrum: 0.24653490888886154
 color:
-  brandStrength: 0.9459504049737006
-  lightness: 0.30353698949329555
-  saturation: 0.8670525676570833
-  rhythmicContrast: 0.9980805406812578
+  brandStrength: 0.862356188474223
+  lightness: 0.24667502543888986
+  saturation: 0.7619715605396777
+  rhythmicContrast: 0.25878182821907103
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: DontGetTooClose
